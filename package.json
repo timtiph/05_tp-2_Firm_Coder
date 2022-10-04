@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "sass": "^1.55.0"
-  }
+  },
+  "name": "05_tp-2_firm_coder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch global.scss:stylesheet.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timtiph/05_tp-2_Firm_Coder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timtiph/05_tp-2_Firm_Coder/issues"
+  },
+  "homepage": "https://github.com/timtiph/05_tp-2_Firm_Coder#readme",
+  "description": ""
 }
