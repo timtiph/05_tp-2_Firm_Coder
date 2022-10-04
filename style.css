@@ -46,3 +46,19 @@
     font-style: normal;
 
 }
+
+body, html{
+    width: 100vw;
+}
+
+@media screen and (wax-width: 1150px) {
+    html, body{
+        width: 1150px;
+    }
+}
+
+header {
+        color:black;
+        background-color:white;
+        background-image:url(./fonts/specimen_files/);
+        }
