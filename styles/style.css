@@ -158,3 +158,11 @@ hr.header {
     font-weight: 500;
     text-align: center;
 }
+
+.card-img-babyface,
+.card-img-top-babyface,
+.card-img-bottom-babyface {
+  width: 182px;
+  height: 182px; 
+  align-self: stretch;
+}
