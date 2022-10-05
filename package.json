@@ -7,7 +7,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch global.scss:stylesheet.css"
+    "sass": "sass --watch sass/global.scss:styles/stylesheet.css"
   },
   "repository": {
     "type": "git",
