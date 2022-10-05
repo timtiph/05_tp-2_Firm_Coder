@@ -10,11 +10,15 @@
         url('assets/css/fonts/Roboto-Bold.ttf') format ('truetype');
     font-weight: normal;
     font-style: normal;
+<<<<<<< Updated upstream
 
 }
 
 
 
+=======
+}
+>>>>>>> Stashed changes
 
 @font-face {
     font-family: 'robotolight';
